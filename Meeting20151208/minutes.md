@@ -4,7 +4,7 @@ On december 8, 2015, the kickoff of Geonovum's Spatial data on the web testbed t
 
 ## Present: 
 
-Linda van den Brink, Marcel Reuvers, Arnoud de Boer (Geonovum), Matthew Pegels, Teun van Sprundel (Spotzi), Dimitri van Hees, Joost Farla (Apiwise), Clemens Portele (interactive instruments), Lieke Verhelst (Linked Data Factory), Paul van Genuchten (GeoCat), John	van Echtelt	(CGI), Anne Jop	de Jong	(Vicrea), Anne	Fintelman	(Defensie), Herman 	Assink (IDgis), Dirk-Willem	van Gulik (Ardytectuur), and Herzo	van der Wal (RWS)
+Linda van den Brink, Marcel Reuvers, Arnoud de Boer (Geonovum), Matthew Pegels, Teun van Sprundel (Spotzi), Dimitri van Hees, Joost Farla (Apiwise), Andreas Zahnen, Clemens Portele (interactive instruments), Lieke Verhelst (Linked Data Factory), Paul van Genuchten (GeoCat), John	van Echtelt	(CGI), Anne Jop	de Jong	(Vicrea), Anne	Fintelman	(Defensie), Herman 	Assink (IDgis), Dirk-Willem	van Gulik (Ardytectuur), and Herzo	van der Wal (RWS)
 
 ## Agenda: 
 - 13:00 Introduction & who’s who
