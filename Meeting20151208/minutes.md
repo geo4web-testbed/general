@@ -4,15 +4,15 @@ On december 8, 2015, the kickoff of Geonovum's Spatial data on the web testbed t
 
 ## Present: 
 
-Linda van den Brink, Marcel Reuvers, Arnoud de Boer (Geonovum), Matthew Pegels, Teun van Sprundel (Spotzi), Dimitri van Hees, Joost Farla (Apiwise), Clemens Portele (interactive instruments), Lieke Verhelst (Linked Data Factory), Paul van Genuchten (GeoCat), John	van Echtelt	(CGI), Anne Jop	de Jong	(Vicrea), Anne	Fintelman	(Defensie), Herman 	Assink (IDgis), Dirk-Willem	van Gulik (Ardytectuur), en Herzo	van der Wal (RWS)
+Linda van den Brink, Marcel Reuvers, Arnoud de Boer (Geonovum), Matthew Pegels, Teun van Sprundel (Spotzi), Dimitri van Hees, Joost Farla (Apiwise), Clemens Portele (interactive instruments), Lieke Verhelst (Linked Data Factory), Paul van Genuchten (GeoCat), John	van Echtelt	(CGI), Anne Jop	de Jong	(Vicrea), Anne	Fintelman	(Defensie), Herman 	Assink (IDgis), Dirk-Willem	van Gulik (Ardytectuur), and Herzo	van der Wal (RWS)
 
 ## Agenda: 
-- 13:00 Introduction & who’s who
-- 13:15 Introduction to the testbed – Linda
-- 13:30 Research topic 2 – Spotzi
+- 13:00 Introduction & whoâ€™s who
+- 13:15 Introduction to the testbed â€“ Linda
+- 13:30 Research topic 2 â€“ Spotzi
 - 14:30 Break
-- 15:00 Research topic 3 – Apiwise
-- 16:00 Research topic 4 – Interactive instruments / Geocat / Linked Data Factory
+- 15:00 Research topic 3 â€“ Apiwise
+- 16:00 Research topic 4 â€“ Interactive instruments / Geocat / Linked Data Factory
 - 17:00 End
 
 ## Introduction
@@ -27,7 +27,7 @@ Teun and Matthew presented their approach for research topic 2. Notes:
 - [slides][3]
 - Discussion point: Citizens should be able to change / comment on govt data. Why? They have valuable input about their own environment. However, a lot of the Dutch govt datasets are authoritative and not very changeable (i.e. only the govt data owner are allowed to change the data, not citizens). There are different levels of feedback, official channels on the one end vs tweets on the other end of the spectrum; the feedback loop becomes less strong. Spotzi wants to address all levels.
 -	Another challenge of topic 2 should be: how should you publish your data, update/maintain the data, how to support the workflows at data owners better than today. 
-- Question: Will it be part of topic 2 that the platform also helps users understand the semantics of the data? Otherwise there will be a lot of useless user feedback. Answer: don’t share useless data with the citizen.
+- Question: Will it be part of topic 2 that the platform also helps users understand the semantics of the data? Otherwise there will be a lot of useless user feedback. Answer: donâ€™t share useless data with the citizen.
 - Is the focus on the end user or citizens in general? Focus more on the end user, e.g. a municipal employee.
 
 ## Research topic 3 - Apiwise
@@ -39,8 +39,8 @@ Dimitri and Joost presented their approach for research topic 3. Notes:
 - Example use case: Am i allowed to open a bar here?
 - Will test different publication methods, formats and APIs. 
 - Will also publish APIs to portals like [swaggerhub][6].
-- Challenge: Technical limitations, like performance - won’t address or at least not in focus. HTML representation could be really slow, depending on where it's hosted. If so this might affect if/how its indexed by search engines. 
-- Challenge: Extending schema.org – this action is limited to suggestions to maintainer. Via Dan Brickley (Google). Dimitri/Joost signed up for schema.org community group and will collaborate with topic 4 on this.
+- Challenge: Technical limitations, like performance - wonâ€™t address or at least not in focus. HTML representation could be really slow, depending on where it's hosted. If so this might affect if/how its indexed by search engines. 
+- Challenge: Extending schema.org â€“ this action is limited to suggestions to maintainer. Via Dan Brickley (Google). Dimitri/Joost signed up for schema.org community group and will collaborate with topic 4 on this.
 - Challenge: Search engine indexation frequency. No control over this.
 - They will document tooling and best practices around SEO for spatial data.
 - They want to test the	Dutch URI strategy and a RESTful URI strategy and measure the results
@@ -55,7 +55,7 @@ Clemens, Lieke and Paul present their approach. Notes:
 
 - [plan of approach][8]
 - Slides: [intro][9], [linked data proxy][10]
-- There is a lot of overlaop with topic 3, but the focus is more on the realisation of good spatial data on the web on top of the existing workflows and systems (SDI) in the geospatial domain. If the ideas of spatial data on the web are succesful and turn out to offer a lot of added value, data owners will probably go back to the source data and start publishing it in different ways; but doing it on top of the existing SDI is a much smaller step and therefore useful.  
+- There is a lot of overlap with topic 3, but the focus is more on the realisation of good spatial data on the web on top of the existing workflows and systems (SDI) in the geospatial domain. If the ideas of spatial data on the web are succesful and turn out to offer a lot of added value, data owners will probably go back to the source data and start publishing it in different ways; but doing it on top of the existing SDI is a much smaller step and therefore useful.  
 - They are working within the framework of current geospatial standards and realising within GeoNetwork a Linked data proxy on top of WFS. 
 - One aspect where topic 4 does not overlap with 2 or 3 is the link with open data portals. ISO19115/119 metadata will be transformed to DCAT to achieve this.
 - Challenge: there could be friction between what Linked Data specialists find desirable, what works for search engines and what works for web programmers. According to early findings, search engines only accept simpel json-ld / schema.org structures, while programmable web needs more advanced structuring. They seek collaboration with topic 3 on this. 
@@ -79,7 +79,7 @@ Clemens, Lieke and Paul present their approach. Notes:
 - Action Marcel: create a Github issue to discuss the idea of using more / different data within the testbed. List some ideas and others will add theirs. It would be good if the data that gets used in the different topics, is complementary so that all data used in the testbed can form some logical whole and be used to demonstrate sensible use cases. Arnoud de Boer will also partipate in the thinking about this, since he is working on formulating research topic 5, a working prototype based on the testbed results. Requirement: the data has to be already accessible. Apiwise already has the idea of using CBS wijken/buurten (regions) data.  
 -	Maybe all topics should use the same use case. We lack use cases that demonstrate the usefulness of linking spatial data. Arnoud will search for suitable use cases; Spotzi is trying to get Bergen op Zoom to participate in the testbed. 
 
-[1]: <<link to presentation introduction>>
+[1]: https://github.com/geo4web-testbed/general/blob/master/Meeting20151208/IntroductionLinda.pdf
 [2]: https://github.com/geo4web-testbed/topic2/blob/master/proposal_topic_2
 [3]: slides Spotzi (missing)
 [4]: https://github.com/geo4web-testbed/topic3/wiki/Crawlable-geospatial-data-using-the-ecosystem-of-the-Web-and-Linked-Data
