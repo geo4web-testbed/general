@@ -81,7 +81,7 @@ Clemens, Lieke and Paul present their approach. Notes:
 
 [1]: https://github.com/geo4web-testbed/general/blob/master/Meeting20151208/IntroductionLinda.pdf
 [2]: https://github.com/geo4web-testbed/topic2/blob/master/proposal_topic_2
-[3]: slides Spotzi (missing)
+[3]: https://github.com/geo4web-testbed/topic2/blob/master/Presentatie.pptx
 [4]: https://github.com/geo4web-testbed/topic3/wiki/Crawlable-geospatial-data-using-the-ecosystem-of-the-Web-and-Linked-Data
 [5]: https://github.com/geo4web-testbed/topic3/blob/develop/presentations/kickoff/kickoff.md
 [6]: https://swaggerhub.com
