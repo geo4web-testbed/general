@@ -54,7 +54,7 @@ Dimitri and Joost presented their approach for research topic 3. Notes:
 Clemens, Lieke and Paul present their approach. Notes: 
 
 - [plan of approach][8]
-- Slides: [intro][9], [linked data proxy][10]
+- Slides: [intro][9], [linked data proxy][10], [mapping][12]
 - There is a lot of overlap with topic 3, but the focus is more on the realisation of good spatial data on the web on top of the existing workflows and systems (SDI) in the geospatial domain. If the ideas of spatial data on the web are succesful and turn out to offer a lot of added value, data owners will probably go back to the source data and start publishing it in different ways; but doing it on top of the existing SDI is a much smaller step and therefore useful.  
 - They are working within the framework of current geospatial standards and realising within GeoNetwork a Linked data proxy on top of WFS. 
 - One aspect where topic 4 does not overlap with 2 or 3 is the link with open data portals. ISO19115/119 metadata will be transformed to DCAT to achieve this.
@@ -90,3 +90,4 @@ Clemens, Lieke and Paul present their approach. Notes:
 [9]: https://github.com/geo4web-testbed/topic4-general/blob/master/meetings/2015-12-08/Topic4-intro-20151208.pdf
 [10]: https://github.com/geo4web-testbed/topic4-general/blob/master/meetings/2015-12-08/Topic4-ldproxy-20151208.pdf
 [11]: http://nationaalgeoregister.nl
+[12]: https://github.com/geo4web-testbed/general/blob/master/Meeting20151208/topic%204%20mapping.pdf
