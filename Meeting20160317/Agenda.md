@@ -1,6 +1,7 @@
 # DRAFT 17 March meeting agenda
 
-Location: De Observant, Amersfoort
+Location: De Prodentfabriek, Amersfoort
+http://prodentfabriek.nl
 
 Time: 10:00am - 16:00pm
 
