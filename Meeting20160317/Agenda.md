@@ -1,4 +1,4 @@
-# 17 March meeting agenda
+# 17 March meeting program
 
 Location: De Prodentfabriek, Amersfoort
 http://prodentfabriek.nl
