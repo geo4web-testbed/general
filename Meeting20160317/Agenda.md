@@ -15,14 +15,15 @@ Teun van Sprundel, Matthew Pegels (Spotzi)
 
 ## 12:00 Lunch
 
-## 13:00 Crawlable Spatial Data
+## 13:00 Next phase of the testbed
+Marcel Reuvers
+
+## 13:20 Crawlable Spatial Data
 Dimitri van Hees, Joost Farla (Apiwise)
 
-## 14:15 Coffee / tea break
+## 14:35 Coffee / tea break
 
-## 14:30 Proxy on SDI
+## 14:50 Proxy on SDI
 Clemens Portele (interactive instruments), Lieke Verhelst (Linked Data Factory), Paul van Genuchten (GeoCat)
-
-## 15:45 Next phase of the testbed
 
 ## 16:05 Drinks
