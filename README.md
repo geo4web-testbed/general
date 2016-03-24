@@ -18,11 +18,15 @@ Geonovum wants to know more about how to publish spatial data on the web in a us
 
 More information is at http://www.geonovum.nl/onderwerp-artikel/testbed-locatie-data-het-web
 
-For all presentations see this repository. 
+For all presentations see this repository;
+* [Meeting December 8 2015][8]
+* [Meeting January 28 2016][9]
+* [Meeting February 10 2016][10]
+* [Meeting March 17 2016][11]
 
-For more background information, read [the original Invitation to Tender][8]. 
+For more background information, read [the original Invitation to Tender][12]. 
 
-Recorded questions and answers during the tender process are [here][9]. 
+Recorded questions and answers during the tender process are [here][13]. 
 
 News about the testbed is spread via Twitter @geonovum | @brinkwoman | #geo4web. 
 
@@ -33,5 +37,9 @@ News about the testbed is spread via Twitter @geonovum | @brinkwoman | #geo4web.
 [5]: https://github.com/geo4web-testbed/topic4/blob/master/spatial-data-on-the-web-using-sdi-report.pdf
 [6]: https://github.com/geo4web-testbed/topic4
 [7]: https://github.com/geo4web-testbed
-[8]: https://docs.google.com/document/d/1LQQ0JObMxICpMALg46UuWFnJAfKRcNJED0fpx8utKsg/edit?usp=sharing
-[9]: https://github.com/Geonovum/geo4web-testbed/issues?q=is%3Aissue+is%3Aclosed
+[8]: https://github.com/geo4web-testbed/general/tree/master/Meeting20151208
+[9]: https://github.com/geo4web-testbed/general/tree/master/Meeting20160128
+[10]: https://github.com/geo4web-testbed/general/tree/master/Meeting20160210
+[11]: https://github.com/geo4web-testbed/general/tree/master/Meeting20160317
+[12]: https://docs.google.com/document/d/1LQQ0JObMxICpMALg46UuWFnJAfKRcNJED0fpx8utKsg/edit?usp=sharing
+[13]: https://github.com/Geonovum/geo4web-testbed/issues?q=is%3Aissue+is%3Aclosed
