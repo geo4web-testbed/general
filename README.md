@@ -10,6 +10,7 @@ Geonovum wants to know more about how to publish spatial data on the web in a us
 *	Research topic #3: Crawlable spatial data using the ecosystem of the Web and Linked Data
   *	[Report][3] describing the results
   * [Repository][4] 
+  * Data: [Land cover][14] and [Administrative areas][15]
 *	Research topic #4: Spatial data on the web using the current SDI
   *	[Report][5] describing the results
   * [Repository with slides/documents][6] 
@@ -43,3 +44,5 @@ News about the testbed is spread via Twitter @geonovum | @brinkwoman | #geo4web.
 [11]: https://github.com/geo4web-testbed/general/tree/master/Meeting20160317
 [12]: https://docs.google.com/document/d/1LQQ0JObMxICpMALg46UuWFnJAfKRcNJED0fpx8utKsg/edit?usp=sharing
 [13]: https://github.com/Geonovum/geo4web-testbed/issues?q=is%3Aissue+is%3Aclosed
+[14]: https://swaggerhub.com/api/apiwise/landcover/1.0
+[15]: https://geo4web.apiwise.nl
