@@ -4,6 +4,7 @@ The general repository is used to publish meeting minutes and other general stuf
 ## the testbed
 Geonovum wants to know more about how to publish spatial data on the web in a usable manner. To this end we are running a testbed around these four research topics, three of which are already done:
 *	Research topic #1: Modern ways of spatial data publication (not yet carried out)
+  *	[Invitation to tender][16] open April 18 until May 9
 *	Research topic #2: A usable spatial data publication platform
   * [Report][1] describing the results
   * [Repository][2] 
@@ -46,3 +47,4 @@ News about the testbed is spread via Twitter @geonovum | @brinkwoman | #geo4web.
 [13]: https://github.com/Geonovum/geo4web-testbed/issues?q=is%3Aissue+is%3Aclosed
 [14]: https://swaggerhub.com/api/apiwise/landcover/1.0
 [15]: https://geo4web.apiwise.nl
+[16]: http://www.geonovum.nl/onderwerpen/geo-standaarden/nieuws/invitation-tender-spatial-data-web-%E2%80%93-evaluation-lessons-learned
