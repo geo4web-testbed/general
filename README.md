@@ -7,15 +7,23 @@ Geonovum wants to know more about how to publish spatial data on the web in a us
   *	[Invitation to tender][16] open April 18 until May 9
 *	Research topic #2: A usable spatial data publication platform
   * [Report][1] describing the results
-  * [Repository][2] 
+  * [Repository][2] with code etc.
+  * [Demo platform][17]
 *	Research topic #3: Crawlable spatial data using the ecosystem of the Web and Linked Data
   *	[Report][3] describing the results
-  * [Repository][4] 
+  * [Repository][4] with code etc.
   * Data: [Land cover][14] and [Administrative areas][15]
 *	Research topic #4: Spatial data on the web using the current SDI
   *	[Report][5] describing the results
-  * [Repository with slides/documents][6] 
-  * [Other repositories][7] 
+  *	Repositories:
+    * [Slides/documents][6] 
+    * [Core-geonetwork changes][7] 
+    * [Geo-extension to schema.org][18] 
+    * [LD Proxy design][19]
+    * [Code for linked data version of public announcements][20]
+    * [Mapping BAG data to schema.org][21]
+    * [Mapping AAN data to schema.org][22]
+  * Data: [Agricultural areas (AAN)][23] and [Adresses (BAG)][24] 
 * Research topic #5: A prototype based on the lessons learned (not yet carried out)
 
 More information is at http://www.geonovum.nl/onderwerp-artikel/testbed-locatie-data-het-web
@@ -38,7 +46,7 @@ News about the testbed is spread via Twitter @geonovum | @brinkwoman | #geo4web.
 [4]: https://github.com/geo4web-testbed/topic3
 [5]: https://github.com/geo4web-testbed/topic4/blob/master/spatial-data-on-the-web-using-sdi-report.pdf
 [6]: https://github.com/geo4web-testbed/topic4
-[7]: https://github.com/geo4web-testbed
+[7]: https://github.com/geo4web-testbed/core-geonetwork
 [8]: https://github.com/geo4web-testbed/general/tree/master/Meeting20151208
 [9]: https://github.com/geo4web-testbed/general/tree/master/Meeting20160128
 [10]: https://github.com/geo4web-testbed/general/tree/master/Meeting20160210
@@ -48,3 +56,11 @@ News about the testbed is spread via Twitter @geonovum | @brinkwoman | #geo4web.
 [14]: https://swaggerhub.com/api/apiwise/landcover/1.0
 [15]: https://geo4web.apiwise.nl
 [16]: http://www.geonovum.nl/onderwerpen/geo-standaarden/nieuws/invitation-tender-spatial-data-web-%E2%80%93-evaluation-lessons-learned
+[17]: http://geonovum.spotzi.com
+[18]: https://github.com/geo4web-testbed/geo-extension-to-schemaorg
+[19]: https://github.com/geo4web-testbed/ldproxy-design
+[20]: https://github.com/geo4web-testbed/topic4-task2
+[21]: https://github.com/geo4web-testbed/simpleBAG-to-schemaorg
+[22]: https://github.com/geo4web-testbed/aan_to_schema_org
+[23]: http://www.ldproxy.net/aan
+[24]: http://www.ldproxy.net/bag
