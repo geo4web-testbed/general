@@ -6,16 +6,18 @@ Geonovum wants to know more about how to publish spatial data on the web in a us
 *	Research topic #1: Modern ways of spatial data publication (not yet carried out)
   *	[Invitation to tender][16] open April 18 until May 9
 *	Research topic #2: A usable spatial data publication platform
+  * [Demo platform][17]
   * [Report][1] describing the results
   * [Repository][2] with code etc.
-  * [Demo platform][17]
+
 *	Research topic #3: Crawlable spatial data using the ecosystem of the Web and Linked Data
-  *	[Demo][26] demonstrating a REST API that support content negotiation
+  *	[Demo app][26] demonstrating a REST API that support content negotiation
   *	[Report][3] describing the results
   * [Repository][4] with code etc.
   * Data: [Land cover][14] and [Administrative areas][15]
 *	Research topic #4: Spatial data on the web using the current SDI
-  *	Main deliverable: on-the-fly WFS -> Linked Data transformations with [ldproxy][25] 
+  *	[Demo app][27] demonstrating on-the-fly WFS -> Linked Data / HTML views
+  *	Main deliverable: [ldproxy][25] 
   *	[Report][5] describing the results
   *	Repositories:
     * [Slides/documents][6] 
@@ -68,3 +70,4 @@ News about the testbed is spread via Twitter @geonovum | @brinkwoman | #geo4web.
 [24]: http://www.ldproxy.net/bag
 [25]: https://github.com/interactive-instruments/ldproxy
 [26]: https://geo4web.apiwise.nl/
+[27]: http://www.ldproxy.net/
