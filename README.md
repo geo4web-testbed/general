@@ -10,6 +10,7 @@ Geonovum wants to know more about how to publish spatial data on the web in a us
   * [Repository][2] with code etc.
   * [Demo platform][17]
 *	Research topic #3: Crawlable spatial data using the ecosystem of the Web and Linked Data
+  *	[Demo][26] demonstrating a REST API that support content negotiation
   *	[Report][3] describing the results
   * [Repository][4] with code etc.
   * Data: [Land cover][14] and [Administrative areas][15]
@@ -66,3 +67,4 @@ News about the testbed is spread via Twitter @geonovum | @brinkwoman | #geo4web.
 [23]: http://www.ldproxy.net/aan
 [24]: http://www.ldproxy.net/bag
 [25]: https://github.com/interactive-instruments/ldproxy
+[26]: https://geo4web.apiwise.nl/
