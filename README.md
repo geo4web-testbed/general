@@ -14,7 +14,7 @@ Geonovum wants to know more about how to publish spatial data on the web in a us
   * [Repository][4] with code etc.
   * Data: [Land cover][14] and [Administrative areas][15]
 *	Research topic #4: Spatial data on the web using the current SDI
-  *	Main deliverable: on-the-fly WFS -> Linked Data transformations with [ldproxy][https://github.com/interactive-instruments/ldproxy] 
+  *	Main deliverable: on-the-fly WFS -> Linked Data transformations with [ldproxy][25] 
   *	[Report][5] describing the results
   *	Repositories:
     * [Slides/documents][6] 
@@ -65,3 +65,4 @@ News about the testbed is spread via Twitter @geonovum | @brinkwoman | #geo4web.
 [22]: https://github.com/geo4web-testbed/aan_to_schema_org
 [23]: http://www.ldproxy.net/aan
 [24]: http://www.ldproxy.net/bag
+[25]: https://github.com/interactive-instruments/ldproxy
