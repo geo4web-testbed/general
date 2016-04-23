@@ -6,15 +6,20 @@ Geonovum wants to know more about how to publish spatial data on the web in a us
 *	Research topic #1: Modern ways of spatial data publication (not yet carried out)
   *	[Invitation to tender][16] open April 18 until May 9
 *	Research topic #2: A usable spatial data publication platform
+  * [Demo platform][17]
   * [Report][1] describing the results
   * [Repository][2] with code etc.
-  * [Demo platform][17]
+
 *	Research topic #3: Crawlable spatial data using the ecosystem of the Web and Linked Data
+  *	[Demo app][26] demonstrating a REST API that support content negotiation
   *	[Report][3] describing the results
   * [Repository][4] with code etc.
   * Data: [Land cover][14] and [Administrative areas][15]
+
 *	Research topic #4: Spatial data on the web using the current SDI
-  *	[Report][5] describing the results
+  *	[Demo app][27] demonstrating on-the-fly WFS -> Linked Data / HTML views
+  *	Main deliverable: [ldproxy][25] 
+  *	 Report [[PDF][5] | [HTML][28]] describing the results
   *	Repositories:
     * [Slides/documents][6] 
     * [Core-geonetwork changes][7] 
@@ -24,6 +29,7 @@ Geonovum wants to know more about how to publish spatial data on the web in a us
     * [Mapping BAG data to schema.org][21]
     * [Mapping AAN data to schema.org][22]
   * Data: [Agricultural areas (AAN)][23] and [Adresses (BAG)][24] 
+
 * Research topic #5: A prototype based on the lessons learned (not yet carried out)
 
 More information is at http://www.geonovum.nl/onderwerp-artikel/testbed-locatie-data-het-web
@@ -64,3 +70,7 @@ News about the testbed is spread via Twitter @geonovum | @brinkwoman | #geo4web.
 [22]: https://github.com/geo4web-testbed/aan_to_schema_org
 [23]: http://www.ldproxy.net/aan
 [24]: http://www.ldproxy.net/bag
+[25]: https://github.com/interactive-instruments/ldproxy
+[26]: https://geo4web.apiwise.nl/
+[27]: http://www.ldproxy.net/
+[28]: http://geo4web-testbed.github.io/topic4/
