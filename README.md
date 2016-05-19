@@ -2,9 +2,15 @@
 The general repository is used to publish meeting minutes and other general stuff.
 
 ## the testbed
-Geonovum wants to know more about how to publish spatial data on the web in a usable manner. To this end we are running a testbed around these four research topics, three of which are already done:
-*	Research topic #1: Modern ways of spatial data publication (not yet carried out)
+Geonovum wants to know more about how to publish spatial data on the web in a usable manner. To this end we are running a testbed around these four research topics, three of which are already done. 
+
+The things we learned so far are summarized in the [Lessons Learned][29]
+
+The research topics are: 
+*	Research topic #1: Modern ways of spatial data publication
   *	[Invitation to tender][16] open April 18 until May 9
+  *	Running from May 17 - July 15
+ 
 *	Research topic #2: A usable spatial data publication platform
   * [Demo platform][17]
   * [Report][1] describing the results
@@ -74,3 +80,4 @@ News about the testbed is spread via Twitter @geonovum | @brinkwoman | #geo4web.
 [26]: https://geo4web.apiwise.nl/
 [27]: http://www.ldproxy.net/
 [28]: http://geo4web-testbed.github.io/topic4/
+[29]: https://github.com/geo4web-testbed/lessons-learned/wiki
