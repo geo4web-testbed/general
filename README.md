@@ -9,7 +9,7 @@ The things we learned so far are summarized in the [Lessons Learned][29]
 The research topics are: 
 *	Research topic #1: Modern ways of spatial data publication
   *	[Invitation to tender][16] open April 18 until May 9
-  *	Running from May 17 - July 15
+  *	Running from May 17 - July 15 - extended until end of August
  
 *	Research topic #2: A usable spatial data publication platform
   * [Demo platform][17]
