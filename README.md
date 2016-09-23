@@ -8,16 +8,19 @@ The things we learned so far are summarized in the [Lessons Learned][29]
 
 The research topics are: 
 *	Research topic #1: Modern ways of spatial data publication
-  *	[Invitation to tender][16] open April 18 until May 9
-  *	Running from May 17 - July 15 - extended until end of August
- 
+  *	[Invitation to tender][16] 
+  *	Ran from May 17 - July 15 - extended until end of August
+  *	[Repository][30] (report, presentation, code) of task 1 - publishing spatial data - By Triply
+  *	[Repository][31] (report, presentation, code) of task 2 - using spatial data - By Alterra
+  *	[Repository][32] (report, presentation, code) of task 2 - using spatial data - By Spotzi
+	
 *	Research topic #2: A usable spatial data publication platform
   * [Demo platform][17]
   * [Report][1] describing the results
   * [Repository][2] with code etc.
 
 *	Research topic #3: Crawlable spatial data using the ecosystem of the Web and Linked Data
-  *	[Demo app][26] demonstrating a REST API that support content negotiation
+  *	[Demo app][26] demonstrating a REST API that supports content negotiation
   *	[Report][3] describing the results
   * [Repository][4] with code etc.
   * Data: [Land cover][14] and [Administrative areas][15]
@@ -81,3 +84,6 @@ News about the testbed is spread via Twitter @geonovum | @brinkwoman | #geo4web.
 [27]: http://www.ldproxy.net/
 [28]: http://geo4web-testbed.github.io/topic4/
 [29]: https://github.com/geo4web-testbed/lessons-learned/wiki
+[30]: https://github.com/geo4web-testbed/topic1-task1
+[31]: https://github.com/geo4web-testbed/topic1-task2-alterra
+[32]: https://github.com/geo4web-testbed/topic1-task2
