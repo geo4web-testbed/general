@@ -17,6 +17,6 @@ Presentations:
 
 
 [1]: https://github.com/geo4web-testbed/general/blob/master/Meeting20160906/Geo4WebIntro-GeoGebruikersFestival.pptx
-[2]: 
+[2]: http://wouterbeek.github.io/pres/2016-09-06-Geo-Gebruikersfestival.html 
 [3]: https://github.com/geo4web-testbed/topic1-task2/blob/master/Application/Eindpresentatie-Spotzi.pptx
 [4]: https://github.com/geo4web-testbed/topic1-task2-alterra/blob/master/report/geofestival-geo4web_knapen.pptx
