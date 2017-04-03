@@ -2,44 +2,42 @@
 The general repository is used to publish meeting minutes and other general stuff.
 
 ## the testbed
-Geonovum wants to know more about how to publish spatial data on the web in a usable manner. To this end we ran a testbed around these four research topics. 
+Geonovum wants to know more about how to publish spatial data on the web in a usable manner. To this end we ran a testbed around these  research topics. 
 
 The things we learned are summarized in the [Lessons Learned][29]
 
 The research topics are: 
 *	Research topic #1: Modern ways of spatial data publication
-  *	[Invitation to tender][16] 
-  *	Ran from May 17 - July 15 - extended until end of August
+    *	[Invitation to tender][16] 
+    *	Ran from May 17 - July 15 - extended until end of August
     *	[Repository][30] (report, presentation, code) of task 1 - publishing spatial data - By Triply
     *	[Repository][31] (report, presentation, code) of task 2 - using spatial data - By Alterra
     *	[Repository][32] (report, presentation, code) of task 2 - using spatial data - By Spotzi
 	
 *	Research topic #2: A usable spatial data publication platform
-  * [Demo platform][17]
-  * [Report][1] describing the results
-  * [Repository][2] with code etc.
+    * [Demo platform][17]
+    * [Report][1] describing the results
+    * [Repository][2] with code etc.
 
 *	Research topic #3: Crawlable spatial data using the ecosystem of the Web and Linked Data
-  *	[Demo app][26] demonstrating a REST API that supports content negotiation
-  *	[Report][3] describing the results
-  * [Repository][4] with code etc.
-  * Data: [Land cover][14] and [Administrative areas][15]
+    *	[Demo app][26] demonstrating a REST API that supports content negotiation
+    *	[Report][3] describing the results
+    * [Repository][4] with code etc.
+    * Data: [Land cover][14] and [Administrative areas][15]
 
 *	Research topic #4: Spatial data on the web using the current SDI
-  *	[Demo app][27] demonstrating on-the-fly WFS -> Linked Data / HTML views
-  *	Main deliverable: [ldproxy][25] 
-  *	 Report [[PDF][5] | [HTML][28]] describing the results
-  *	Repositories:
-    * [Slides/documents][6] 
-    * [Core-geonetwork changes][7] 
-    * [Geo-extension to schema.org][18] 
-    * [LD Proxy design][19]
-    * [Code for linked data version of public announcements][20]
-    * [Mapping BAG data to schema.org][21]
-    * [Mapping AAN data to schema.org][22]
-  * Data: [Agricultural areas (AAN)][23] and [Adresses (BAG)][24] 
-
-* Research topic #5: A prototype based on the lessons learned (not yet carried out)
+    *	[Demo app][27] demonstrating on-the-fly WFS -> Linked Data / HTML views
+    *	Main deliverable: [ldproxy][25] 
+    *	 Report [[PDF][5] | [HTML][28]] describing the results
+    *	Repositories:
+      * [Slides/documents][6] 
+      * [Core-geonetwork changes][7] 
+      * [Geo-extension to schema.org][18] 
+      * [LD Proxy design][19]
+      * [Code for linked data version of public announcements][20]
+      * [Mapping BAG data to schema.org][21]
+      * [Mapping AAN data to schema.org][22]
+    * Data: [Agricultural areas (AAN)][23] and [Adresses (BAG)][24] 
 
 More information is at http://www.geonovum.nl/onderwerp-artikel/testbed-locatie-data-het-web
 
