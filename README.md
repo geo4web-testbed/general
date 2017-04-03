@@ -9,7 +9,7 @@ The things we learned are summarized in the [Lessons Learned][29]
 The research topics are: 
 *	Research topic #1: Modern ways of spatial data publication
     *	[Invitation to tender][16] 
-    *	Ran ''after'' research topics 2, 3 and 4, from May 17 - July 15 2016- extended until end of August
+    *	Ran _after_ research topics 2, 3 and 4, from May 17 - July 15 2016- extended until end of August
     *	[Repository][30] (report, presentation, code) of task 1 - publishing spatial data - By Triply
     *	[Repository][31] (report, presentation, code) of task 2 - using spatial data - By Alterra
     *	[Repository][32] (report, presentation, code) of task 2 - using spatial data - By Spotzi
