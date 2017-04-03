@@ -2,17 +2,17 @@
 The general repository is used to publish meeting minutes and other general stuff.
 
 ## the testbed
-Geonovum wants to know more about how to publish spatial data on the web in a usable manner. To this end we are running a testbed around these four research topics, three of which are already done. 
+Geonovum wants to know more about how to publish spatial data on the web in a usable manner. To this end we ran a testbed around these four research topics. 
 
-The things we learned so far are summarized in the [Lessons Learned][29]
+The things we learned are summarized in the [Lessons Learned][29]
 
 The research topics are: 
 *	Research topic #1: Modern ways of spatial data publication
   *	[Invitation to tender][16] 
   *	Ran from May 17 - July 15 - extended until end of August
-  *	[Repository][30] (report, presentation, code) of task 1 - publishing spatial data - By Triply
-  *	[Repository][31] (report, presentation, code) of task 2 - using spatial data - By Alterra
-  *	[Repository][32] (report, presentation, code) of task 2 - using spatial data - By Spotzi
+    *	[Repository][30] (report, presentation, code) of task 1 - publishing spatial data - By Triply
+    *	[Repository][31] (report, presentation, code) of task 2 - using spatial data - By Alterra
+    *	[Repository][32] (report, presentation, code) of task 2 - using spatial data - By Spotzi
 	
 *	Research topic #2: A usable spatial data publication platform
   * [Demo platform][17]
