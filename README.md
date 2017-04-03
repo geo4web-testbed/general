@@ -4,6 +4,8 @@ The general repository is used to publish meeting minutes and other general stuf
 ## the testbed
 Geonovum wants to know more about how to publish spatial data on the web in a usable manner. To this end we ran a testbed around four  research topics in 2015-2016. 
 
+Research topics 2, 3 and 4 were carried out simultaneously between December 2015 - March 2017. Research topic 1 was carried out afterwards, from May - August 2016, based on the earlier testbed results. 
+
 The things we learned are summarized in the [Lessons Learned][29]
 
 The research topics are: 
